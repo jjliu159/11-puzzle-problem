@@ -1,1 +1,1 @@
-# 12-puzzle-problem
+# 11-puzzle-problem
